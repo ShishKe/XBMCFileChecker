@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCExclude xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cExclude>
+    <sRule>SAN2A</sRule>
+    <sDescription>Exclude home videos on this share</sDescription>
+  </cExclude>
+  <cExclude>
+    <sRule>.srt</sRule>
+    <sDescription>Ignore Subtitles</sDescription>
+  </cExclude>
+  <cExclude>
+    <sRule>.db</sRule>
+    <sDescription>Ignore thumbs</sDescription>
+  </cExclude>
+  <cExclude>
+    <sRule>DVD Movies</sRule>
+    <sDescription>DVD format have a bunch of extra files</sDescription>
+  </cExclude>
+  <cExclude>
+    <sRule>Extras</sRule>
+    <sDescription>Extras do not scan into XBMC</sDescription>
+  </cExclude>
+</ArrayOfCExclude>

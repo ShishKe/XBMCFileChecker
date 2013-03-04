@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfCExclude xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cExclude>
+    <sRule>Rule 1</sRule>
+    <sDescription>Some Rule</sDescription>
+  </cExclude>
+  <cExclude>
+    <sRule>Rule 2</sRule>
+    <sDescription>Some Rule</sDescription>
+  </cExclude>
+</ArrayOfCExclude>

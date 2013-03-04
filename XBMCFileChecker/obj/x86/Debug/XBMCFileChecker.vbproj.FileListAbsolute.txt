@@ -1,0 +1,34 @@
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\bin\Debug\XBMCFileChecker.exe
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\bin\Debug\XBMCFileChecker.pdb
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\bin\Debug\XBMCFileChecker.xml
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.Resources.resources
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.exe
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.xml
+C:\Documents and Settings\Ray.Barry\Local Settings\Application Data\Temporary Projects\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.pdb
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.exe
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.xml
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.pdb
+T:\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.exe
+T:\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.pdb
+T:\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.xml
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.Resources.resources
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\GenerateResource.read.1.tlog
+T:\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.exe.config
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.exe
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.pdb
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCFileChecker.xml
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCDataLayer.dll
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCDataLayer.pdb
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\bin\Debug\XBMCDataLayer.xml
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.vbprojResolveAssemblyReference.cache
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.fMain.resources
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.Resources.resources
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.vbproj.GenerateResource.Cache
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.exe
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.xml
+C:\SyncDocs\Development\XBMCFileChecker\XBMCFileChecker\obj\x86\Debug\XBMCFileChecker.pdb

@@ -1,0 +1,31 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Exclude" Type="XBMCDataLayer.cExclude" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Include" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;mpg&lt;/string&gt;
+  &lt;string&gt;mpeg&lt;/string&gt;
+  &lt;string&gt;avi&lt;/string&gt;
+  &lt;string&gt;flv&lt;/string&gt;
+  &lt;string&gt;wmv&lt;/string&gt;
+  &lt;string&gt;mkv&lt;/string&gt;
+  &lt;string&gt;264&lt;/string&gt;
+  &lt;string&gt;3g2&lt;/string&gt;
+  &lt;string&gt;3gp&lt;/string&gt;
+  &lt;string&gt;ifo&lt;/string&gt;
+  &lt;string&gt;mp4&lt;/string&gt;
+  &lt;string&gt;mov&lt;/string&gt;
+  &lt;string&gt;iso&lt;/string&gt;
+  &lt;string&gt;ogm&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Excludes" Type="XBMCDataLayer.cExcludes" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

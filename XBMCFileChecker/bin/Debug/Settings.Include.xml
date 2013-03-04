@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<ArrayOfCInclude xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cInclude>
+    <sRule>mpg</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>mpeg</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>avi</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>flv</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>wmv</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>mkv</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>264</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>3g2</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>3gp</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>ifo</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>mp4</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>mov</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>iso</sRule>
+    <sDescription />
+  </cInclude>
+  <cInclude>
+    <sRule>ogm</sRule>
+    <sDescription />
+  </cInclude>
+</ArrayOfCInclude>

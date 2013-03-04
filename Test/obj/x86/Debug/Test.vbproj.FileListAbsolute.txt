@@ -1,0 +1,16 @@
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\Test.exe.config
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\Test.exe
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\Test.pdb
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\Test.xml
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCDataLayer.dll
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCFileChecker.exe
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCDataLayer.pdb
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCDataLayer.xml
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCFileChecker.pdb
+C:\SyncDocs\Development\XBMCFileChecker\Test\bin\Debug\XBMCFileChecker.xml
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.vbprojResolveAssemblyReference.cache
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.Resources.resources
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.vbproj.GenerateResource.Cache
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.exe
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.xml
+C:\SyncDocs\Development\XBMCFileChecker\Test\obj\x86\Debug\Test.pdb

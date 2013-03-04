@@ -1,0 +1,8 @@
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\bin\Debug\XBMCDataLayer.dll
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\bin\Debug\XBMCDataLayer.pdb
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\bin\Debug\XBMCDataLayer.xml
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\obj\Debug\XBMCDataLayer.Resources.resources
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\obj\Debug\XBMCDataLayer.vbproj.GenerateResource.Cache
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\obj\Debug\XBMCDataLayer.dll
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\obj\Debug\XBMCDataLayer.xml
+C:\SyncDocs\Development\XBMCFileChecker\XBMCDataLayer\obj\Debug\XBMCDataLayer.pdb
